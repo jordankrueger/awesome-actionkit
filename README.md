@@ -35,7 +35,7 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 
 ## SQL and reporting
 
-*More entries coming soon.*
+- [Passing lists into ActionKit query reports](https://thirdbearsolutions.com/blog/passing-lists-actionkit-query-reports/) - Technique for accepting user-input lists in custom query reports.
 
 ## Data and deliverability
 
@@ -70,10 +70,17 @@ Platforms with documented ActionKit integrations.
 
 ## Guides and tutorials
 
+- [ActionKit Donation Push API quirks](https://thirdbear.substack.com/p/actionkit-donation-push-api-quirks) - Third Bear's working notes on edge cases and gotchas in the Donation Push API.
+- [Aggregating values server-side in ActionKit templates](https://thirdbearsolutions.com/blog/aggregating-values-server-side-actionkit-templates/) - Third Bear walkthrough for summing pledge and donation totals inside templates for display.
+- [Complex template logic with `{% record %}` and `{% with %}`](https://thirdbearsolutions.com/blog/complex-template-logic-record-and/) - Third Bear guide to advanced Django-template patterns used inside ActionKit pages and emails.
+- [Custom public API endpoints for ActionKit data](https://thirdbearsolutions.com/blog/custom-public-api-endpoints-actionkit-data/) - Third Bear technique for defining JSON/JSONP endpoints via templatesets, with CORS support.
+- [Cmd-Return / Ctrl-Enter to submit any AK admin form](https://docs.actionkit.com/docs/manual/releases/2016.html#hidden-feature-call-out) - Hidden keyboard shortcut from the 2016 release notes. Holding Shift submits via the first alternate button (e.g. submit-and-next-page). Surfaced again by Simon Cavalletto on The AK Club, June 2025.
 - [Customizing your Pre-flight Dashboard](https://blog.actionkit.com/customizing-your-pre-flight-dashboard/) - ActionKit's walkthrough of the `draft_dash` feature for admin-page customization.
-- [Don't Let Recurring Donors Lapse](https://blog.actionkit.com/dont-let-recurring-donors-lapse-updated/) - ActionKit's step-by-step workflow for re-engaging recurring donors with expiring or failed credit cards, using built-in reports, targeted mailings, and self-service update pages.
-- [Staying in the Loop: Tracking Email Advocacy Actions](https://thirdbear.substack.com/p/staying-in-the-loop-tracking-email) - Third Bear guide to tracking supporter email advocacy using BCC lines and inbound email processing, so organizations can monitor outreach without disrupting the sender's experience.
 - [Cutting Out the Middleman: Helping Supporters Email Decision-Makers Directly](https://thirdbear.substack.com/p/cutting-out-the-middleman-helping) - Third Bear walkthrough for building `mailto:` advocacy campaigns where supporters contact decision-makers straight from their own inbox.
+- [Development workflow for ActionKit templatesets](https://thirdbearsolutions.com/blog/development-workflow-actionkit-templatesets/) - Third Bear's local development workflow for editing templatesets with live preview.
+- [Don't Let Recurring Donors Lapse](https://blog.actionkit.com/dont-let-recurring-donors-lapse-updated/) - ActionKit's step-by-step workflow for re-engaging recurring donors with expiring or failed credit cards, using built-in reports, targeted mailings, and self-service update pages.
+- [Reusable code snippets in ActionKit templates](https://thirdbearsolutions.com/blog/reusable-code-snippets-actionkit-templates/) - Third Bear guide to building modular, reusable components with custom snippet overrides.
+- [Staying in the Loop: Tracking Email Advocacy Actions](https://thirdbear.substack.com/p/staying-in-the-loop-tracking-email) - Third Bear guide to tracking supporter email advocacy using BCC lines and inbound email processing, so organizations can monitor outreach without disrupting the sender's experience.
 
 ## Community
 
