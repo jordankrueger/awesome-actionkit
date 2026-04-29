@@ -35,11 +35,12 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 
 ## SQL and reporting
 
+- [SQLpedia](https://clientcon.actionkit.com/go/sqlpedia) - ActionKit's official LLM context file covering schema, query semantics, performance tips, and prompting guidance for AI-assisted reporting on ActionKit data.
 - [Passing lists into ActionKit query reports](https://thirdbearsolutions.com/blog/passing-lists-actionkit-query-reports/) - Technique for accepting user-input lists in custom query reports.
 
 ## Data and deliverability
 
-*More entries coming soon.*
+- [Deliverability Landscape Update (Randall Farmer, ClientCon 2026)](https://docs.google.com/presentation/d/16yOPzMAtHc7sRxZwOR-fRpaOfms9cJgjHuTkO37Q-Rw/edit) - ActionKit's 2026 deliverability briefing: KumoMTA migration, Microsoft January 2026 blocks, Gmail image-prefetching reduction, Comcast/Yahoo merger, and election-year sender-reputation guidance.
 
 ## Integrations
 
@@ -76,6 +77,7 @@ Platforms with documented ActionKit integrations.
 - [Custom public API endpoints for ActionKit data](https://thirdbearsolutions.com/blog/custom-public-api-endpoints-actionkit-data/) - Third Bear technique for defining JSON/JSONP endpoints via templatesets, with CORS support.
 - [Cmd-Return / Ctrl-Enter to submit any AK admin form](https://docs.actionkit.com/docs/manual/releases/2016.html#hidden-feature-call-out) - Hidden keyboard shortcut from the 2016 release notes. Holding Shift submits via the first alternate button (e.g. submit-and-next-page). Surfaced again by Simon Cavalletto on The AK Club, June 2025.
 - [Customizing your Pre-flight Dashboard](https://blog.actionkit.com/customizing-your-pre-flight-dashboard/) - ActionKit's walkthrough of the `draft_dash` feature for admin-page customization.
+- [Using LLMs with ActionKit (Tim Caro-Bruce, ClientCon 2026)](https://docs.google.com/presentation/d/1Sto-KBKVWm8dCe5b14Y95GKd_5MKG_Y3aSe1S99gpUM/edit) - Practical, AK-staff-led talk on safely using LLMs against ActionKit data. Covers context attachment, schema sharing, assumption-listing, verification, and building org memory (CLAUDE.md / AGENTS.md / custom skills). Source of SQLpedia.
 - [Cutting Out the Middleman: Helping Supporters Email Decision-Makers Directly](https://thirdbear.substack.com/p/cutting-out-the-middleman-helping) - Third Bear walkthrough for building `mailto:` advocacy campaigns where supporters contact decision-makers straight from their own inbox.
 - [Development workflow for ActionKit templatesets](https://thirdbearsolutions.com/blog/development-workflow-actionkit-templatesets/) - Third Bear's local development workflow for editing templatesets with live preview.
 - [Don't Let Recurring Donors Lapse](https://blog.actionkit.com/dont-let-recurring-donors-lapse-updated/) - ActionKit's step-by-step workflow for re-engaging recurring donors with expiring or failed credit cards, using built-in reports, targeted mailings, and self-service update pages.

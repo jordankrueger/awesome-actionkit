@@ -8,15 +8,15 @@ Status legend: ✅ done · 🚧 in progress · ⏳ pending external reply · �
 
 Public repo at github.com/jordankrueger/awesome-actionkit. README organized into 9 sections, awesome-list badge, CC0 license, ~25 entries seeded.
 
-## Phase 2 — Fill empty sections 🚧
+## Phase 2 — Fill empty sections ✅
 
-The "SQL and reporting" and "Data and deliverability" sections shipped with placeholders. Source from CampaignHelp's own SQL recipes, Third Bear, Green Thumb, ActionKit blog, and the broader community. Goal: every section has at least one entry before submitting to sindresorhus/awesome.
+The "SQL and reporting" and "Data and deliverability" sections shipped with placeholders. Both filled 2026-04-29: SQLpedia under *SQL and reporting*, Randall Farmer's *Deliverability Landscape Update* under *Data and deliverability*. Every section now has at least one entry. Additional sourcing from CampaignHelp's own SQL recipes, Third Bear, Green Thumb, AK blog, and broader community continues as Phase 5/6 work.
 
 ## Phase 3 — Confirm pending inclusions ⏳
 
 Several entries depend on external confirmations sent April 22, 2026. Tracking:
 
-- ActionKit (Karin Roland + Randall Farmer): SQLpedia listing + 2025/2026 ClientCon slide-deck linkability
+- ✅ ActionKit (Karin Roland + Randall Farmer): SQLpedia listing + 2025/2026 ClientCon slide-deck linkability — confirmed 2026-04-29. Canonical SQLpedia URL is `clientcon.actionkit.com/go/sqlpedia` (stable redirect, file location may move). Slides are good to share.
 - Third Bear Solutions: Stratosphere free/paid tier accuracy, descriptions
 - Green Thumb Software (Simon Cavalletto): descriptions, missed tools
 - ActionKit (Jesse Erlbaum): public URL for the 2025 *Extending ActionKit: Tools that integrate* deck
@@ -37,14 +37,14 @@ Promote the list and invite contributions in:
 
 Direct asks to listed consultants (Green Thumb, Third Bear, Mycelium, Supraluminique) for additions in their areas of strength.
 
-## Phase 6 — Mine ClientCon 2026 sessions for entries 📋
+## Phase 6 — Mine ClientCon 2026 sessions for entries 🚧
 
-The ClientCon 2026 slide index ([clientcon.actionkit.com/survey/get-slides-cc26/](https://clientcon.actionkit.com/survey/get-slides-cc26/?rd=1)) and individual decks are candidate entries pending phase 3 permission:
+The ClientCon 2026 slide index ([clientcon.actionkit.com/survey/get-slides-cc26/](https://clientcon.actionkit.com/survey/get-slides-cc26/?rd=1)) and individual decks are candidate entries — sharing approved by AK 2026-04-29:
 
-- Tim Caro-Bruce — *Using LLMs with ActionKit* (and SQLpedia)
-- Randall Farmer — *Deliverability Landscape Update*
-- Perrin Harkins — *Automations*
-- Jesse Erlbaum — *Extending ActionKit: Tools that integrate* (2025)
+- ✅ Tim Caro-Bruce — *Using LLMs with ActionKit* — added under *Guides and tutorials* 2026-04-29 (SQLpedia separately under *SQL and reporting*)
+- ✅ Randall Farmer — *Deliverability Landscape Update* — added under *Data and deliverability* 2026-04-29
+- ⏸ Perrin Harkins — *Automations* — held; AK Automations feature isn't released yet, so listing the deck would be premature. Revisit when the feature ships.
+- ⏳ Jesse Erlbaum — *Extending ActionKit: Tools that integrate* (2025) — held pending Jesse's reply on a public URL (cc25 deck links require auth)
 
 If a deck can be linked publicly, add it under *Guides and tutorials*. If it can't, document the topic and link to the parent ClientCon archive.
 
