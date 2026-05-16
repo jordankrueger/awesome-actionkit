@@ -31,7 +31,7 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 ## Snippets and templates
 
 - [ak-redirect-snippets](https://github.com/CampaignHelp/ak-redirect-snippets) - Recipe book for dynamic after-action redirect URLs using ActionKit's Django-template support. Includes a donation-URL parameters reference.
-- [ak-mailing-blocks](https://github.com/CampaignHelp/ak-mailing-blocks) - Ready-to-paste HTML building blocks for ActionKit mailings: CTA buttons, donation arrays, preheaders, and a dark-mode-safe email wrapper. Tiered so non-developers can edit from the AK admin.
+- [ak-mailing-blocks](https://github.com/CampaignHelp/ak-mailing-blocks) - Ready-to-paste HTML building blocks for ActionKit mailings: CTA buttons, donation arrays, and a dark-mode-safe email wrapper. Tiered so non-developers can edit from the AK admin. Includes an [interactive playground](https://campaignhelp.github.io/ak-mailing-blocks/playground/) for tweaking colors and copying HTML without editing files.
 - [ActionKit Production Template](https://jordankrueger.com/#ak-template) - Annotated Google Doc template for planning and tracking ActionKit production work, from the Email Strategy Summit session. Watch the walkthrough video or get the link via email signup `CH`.
 
 ## SQL and reporting
