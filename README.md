@@ -8,6 +8,9 @@
 
 ActionKit is powerful, but much of its best tooling is scattered — surfaced only in Slack threads, ClientCon sessions, or vendor blog posts. This list collects what's out there in one place.
 
+> [!NOTE]
+> This is a community-maintained project. It is not affiliated with, endorsed by, or operated by ActionKit or NGP VAN. Entries are curated by [@jordankrueger](https://github.com/jordankrueger) ([CampaignHelp](https://campaign.help)); some entries link to AK-authored resources, but inclusion does not imply AK staff involvement in this list.
+
 ## Contents
 
 - [Tooling and dashboards](#tooling-and-dashboards)
