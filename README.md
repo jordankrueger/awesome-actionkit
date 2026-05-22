@@ -13,15 +13,25 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 
 ## Contents
 
-- [Tooling and dashboards](#tooling-and-dashboards)
+- [Community](#community)
 - [Snippets and templates](#snippets-and-templates)
+- [Tooling and dashboards](#tooling-and-dashboards)
 - [SQL and reporting](#sql-and-reporting)
 - [Data and deliverability](#data-and-deliverability)
-- [Integrations](#integrations)
 - [Commercial add-ons](#commercial-add-ons)
 - [Consultants and services](#consultants-and-services)
 - [Guides and tutorials](#guides-and-tutorials)
-- [Community](#community)
+- [Integrations](#integrations)
+
+## Community
+
+- [The AK Club](https://theak.club) - Private Circle.so community for ActionKit users, hosted by CampaignHelp. Members can re-enter at [hub.theak.club](https://hub.theak.club/feed).
+
+## Snippets and templates
+
+- [ak-redirect-snippets](https://github.com/CampaignHelp/ak-redirect-snippets) - Recipe book for dynamic after-action redirect URLs using ActionKit's Django-template support. Includes a donation-URL parameters reference.
+- [ak-mailing-blocks](https://github.com/CampaignHelp/ak-mailing-blocks) - Ready-to-paste HTML building blocks for ActionKit mailings: CTA buttons, donation arrays, and a dark-mode-safe email wrapper. Tiered so non-developers can edit from the AK admin. Includes an [interactive playground](https://campaignhelp.github.io/ak-mailing-blocks/playground/) for tweaking colors and copying HTML without editing files.
+- [ActionKit Production Template](https://jordankrueger.com/#ak-template) - Annotated Google Doc template for planning and tracking ActionKit production work, from the Email Strategy Summit session. Watch the walkthrough video or get the link via email signup `CH`.
 
 ## Tooling and dashboards
 
@@ -31,12 +41,6 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 - [sticky-akid.js](https://greenthumbsoftware.com/recognizing-actionkit-users-with-sticky-akid-js/) - JavaScript snippet that persists ActionKit user identification across sessions and pages.
 - [Petition Delivery Formatter](https://github.com/jordankrueger/petition-delivery-formatter) - Offline web app that converts a signature CSV into a formatted PDF for in-person delivery.
 
-## Snippets and templates
-
-- [ak-redirect-snippets](https://github.com/CampaignHelp/ak-redirect-snippets) - Recipe book for dynamic after-action redirect URLs using ActionKit's Django-template support. Includes a donation-URL parameters reference.
-- [ak-mailing-blocks](https://github.com/CampaignHelp/ak-mailing-blocks) - Ready-to-paste HTML building blocks for ActionKit mailings: CTA buttons, donation arrays, and a dark-mode-safe email wrapper. Tiered so non-developers can edit from the AK admin. Includes an [interactive playground](https://campaignhelp.github.io/ak-mailing-blocks/playground/) for tweaking colors and copying HTML without editing files.
-- [ActionKit Production Template](https://jordankrueger.com/#ak-template) - Annotated Google Doc template for planning and tracking ActionKit production work, from the Email Strategy Summit session. Watch the walkthrough video or get the link via email signup `CH`.
-
 ## SQL and reporting
 
 - [SQLpedia](https://clientcon.actionkit.com/go/sqlpedia) - ActionKit's official LLM context file covering schema, query semantics, performance tips, and prompting guidance for AI-assisted reporting on ActionKit data.
@@ -45,20 +49,6 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 ## Data and deliverability
 
 - [Deliverability Landscape Update (Randall Farmer, ClientCon 2026)](https://docs.google.com/presentation/d/16yOPzMAtHc7sRxZwOR-fRpaOfms9cJgjHuTkO37Q-Rw/edit) - ActionKit's 2026 deliverability briefing: KumoMTA migration, Microsoft January 2026 blocks, Gmail image-prefetching reduction, Comcast/Yahoo merger, and election-year sender-reputation guidance.
-
-## Integrations
-
-Platforms with documented ActionKit integrations.
-
-- [ActBlue](https://secure.actblue.com) - Fundraising and donation processor.
-- [Mobilize](https://www.mobilize.us) - Event management platform that syncs events and RSVPs with ActionKit.
-- [ControlShift](https://www.controlshiftlabs.com) - Distributed petition and campaign platform.
-- [NEW/MODE](https://newmode.net) - Multi-channel advocacy engagement: calls, emails, letters.
-- [ShareProgress](https://shareprogress.org) - Share-action testing and optimization.
-- [CallPower](https://www.callpower.org) - Phone-action tool for legislative advocacy.
-- [GetThru](https://www.getthru.io) - Peer-to-peer SMS and phone banking.
-- [Grassroots Unwired](https://www.grassrootsunwired.com) - Field canvassing and mobile data collection.
-- [NGP VAN](https://www.ngpvan.com) - Voter and donor data platform; ActionKit's parent-adjacent.
 
 ## Commercial add-ons
 
@@ -88,9 +78,19 @@ Platforms with documented ActionKit integrations.
 - [Reusable code snippets in ActionKit templates](https://thirdbearsolutions.com/blog/reusable-code-snippets-actionkit-templates/) - Third Bear guide to building modular, reusable components with custom snippet overrides.
 - [Staying in the Loop: Tracking Email Advocacy Actions](https://thirdbear.substack.com/p/staying-in-the-loop-tracking-email) - Third Bear guide to tracking supporter email advocacy using BCC lines and inbound email processing, so organizations can monitor outreach without disrupting the sender's experience.
 
-## Community
+## Integrations
 
-- [The AK Club](https://theak.club) - Private Circle.so community for ActionKit users, hosted by CampaignHelp. Members can re-enter at [hub.theak.club](https://hub.theak.club/feed).
+Platforms with documented ActionKit integrations.
+
+- [ActBlue](https://secure.actblue.com) - Fundraising and donation processor.
+- [Mobilize](https://www.mobilize.us) - Event management platform that syncs events and RSVPs with ActionKit.
+- [ControlShift](https://www.controlshiftlabs.com) - Distributed petition and campaign platform.
+- [NEW/MODE](https://newmode.net) - Multi-channel advocacy engagement: calls, emails, letters.
+- [ShareProgress](https://shareprogress.org) - Share-action testing and optimization.
+- [CallPower](https://www.callpower.org) - Phone-action tool for legislative advocacy.
+- [GetThru](https://www.getthru.io) - Peer-to-peer SMS and phone banking.
+- [Grassroots Unwired](https://www.grassrootsunwired.com) - Field canvassing and mobile data collection.
+- [NGP VAN](https://www.ngpvan.com) - Voter and donor data platform; ActionKit's parent-adjacent.
 
 ## Contributing
 
