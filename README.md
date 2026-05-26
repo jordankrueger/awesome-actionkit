@@ -61,11 +61,12 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 - [Green Thumb Software](https://greenthumbsoftware.com) - ActionKit consulting led by Simon Cavalletto, a longtime ActionKit engineer.
 - [Third Bear Solutions](https://thirdbearsolutions.com) - ActionKit consulting firm operating since 2010; makers of Stratosphere.
 - [Mycelium Strategies](https://www.linkedin.com/in/mark-ristaino-b7034015a/) - Data analytics for social justice organizations, including UltraViolet, The Intercept, ActionKit, and 350.org.
-- [Supraluminique](https://fasterthanlight.tech) - ActionKit consulting practice run by Shannon Turner.
+- [Supraluminique](https://fasterthanlight.tech) - ActionKit consulting practice run by Shannon Turner, an ActionKit engineer since 2018.
 
 ## Guides and tutorials
 
 - [ActionKit Donation Push API quirks](https://thirdbear.substack.com/p/actionkit-donation-push-api-quirks) - Third Bear's working notes on edge cases and gotchas in the Donation Push API.
+- [ActionKit training videos](https://www.youtube.com/channel/UCFGRrRwR7fNVoHacFrV1qhw/videos) - ActionKit's YouTube channel of recorded training and feature walkthroughs presented by Shannon Turner: onboarding, deliverability, dashboards, mailing targeting, fundraising, and using LLMs with ActionKit. 40+ videos, 2018–2026.
 - [Aggregating values server-side in ActionKit templates](https://thirdbearsolutions.com/blog/aggregating-values-server-side-actionkit-templates/) - Third Bear walkthrough for summing pledge and donation totals inside templates for display.
 - [Complex template logic with `{% record %}` and `{% with %}`](https://thirdbearsolutions.com/blog/complex-template-logic-record-and/) - Third Bear guide to advanced Django-template patterns used inside ActionKit pages and emails.
 - [Custom public API endpoints for ActionKit data](https://thirdbearsolutions.com/blog/custom-public-api-endpoints-actionkit-data/) - Third Bear technique for defining JSON/JSONP endpoints via templatesets, with CORS support.
