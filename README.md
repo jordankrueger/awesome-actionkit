@@ -53,7 +53,7 @@ ActionKit is powerful, but much of its best tooling is scattered — surfaced on
 ## Commercial add-ons
 
 - [AK Help](https://akhelp.campaign.help) - AI help agent trained on ActionKit documentation.
-- [Stratosphere](https://thirdbearsolutions.com/stratosphere) - Dashboards and member insights built on ActionKit data. Offered by Third Bear Solutions with a free tier and a paid tier (advanced dashboards, custom views, dedicated support).
+- [Stratosphere](https://launchstratosphere.com) - Dashboards and member insights built on ActionKit data. Offered by Third Bear Solutions with a free tier and a paid tier (advanced dashboards, custom views, dedicated support).
 
 ## Consultants and services
 
